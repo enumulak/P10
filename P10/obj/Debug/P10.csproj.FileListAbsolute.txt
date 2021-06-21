@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\P10\P10\bin\Debug\P10.exe.config
+C:\Users\User\source\repos\P10\P10\bin\Debug\P10.exe
+C:\Users\User\source\repos\P10\P10\bin\Debug\P10.pdb
+C:\Users\User\source\repos\P10\P10\obj\Debug\P10.csprojAssemblyReference.cache
+C:\Users\User\source\repos\P10\P10\obj\Debug\P10.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\P10\P10\obj\Debug\P10.exe
+C:\Users\User\source\repos\P10\P10\obj\Debug\P10.pdb

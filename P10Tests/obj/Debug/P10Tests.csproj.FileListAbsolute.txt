@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\P10\P10Tests\bin\Debug\P10Tests.dll
+C:\Users\User\source\repos\P10\P10Tests\bin\Debug\P10Tests.pdb
+C:\Users\User\source\repos\P10\P10Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\source\repos\P10\P10Tests\bin\Debug\P10.exe
+C:\Users\User\source\repos\P10\P10Tests\bin\Debug\P10.pdb
+C:\Users\User\source\repos\P10\P10Tests\bin\Debug\P10.exe.config
+C:\Users\User\source\repos\P10\P10Tests\obj\Debug\P10Tests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\P10\P10Tests\obj\Debug\P10Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\P10\P10Tests\obj\Debug\P10Tests.csproj.CopyComplete
+C:\Users\User\source\repos\P10\P10Tests\obj\Debug\P10Tests.dll
+C:\Users\User\source\repos\P10\P10Tests\obj\Debug\P10Tests.pdb
